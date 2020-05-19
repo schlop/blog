@@ -15,7 +15,7 @@ socialImage: "/media/zotero3.png"
 
 [Zotero](https://www.zotero.org/) is a reference manager that helps researchers to organize and keep track of academic papers. In this post, I will describe my workflow with Zotero, how I add papers to my library, how I manage and annotate them, and how I reference them in Word.
 
-During my Bachelors and Masters, I used EndNote to organize my papers. However, after starting my PhD and using EndNote almost every day, I became more and more annoyed by it. Performance was bad (adding a single reference to a word document took about 30s), the software architecture was old and unstable (32 bit), scripting was very limited, and I was missing some specific features to optimize my workflow (see below). So after a six months of suffering, I decided to switch to Zotero. The transition was really painful, because EndNote's abilities to export your library in a format that Zotero can read are very limited. But it was totally worth it and I'm really happy with my current setup.
+During my Bachelors and Masters, I used EndNote to organize my papers. However, after starting a PhD and using EndNote almost every day, I became more and more annoyed by it. Performance was bad (adding a single reference to a word document took about 30s), the software architecture was old and unstable (32 bit), scripting was very limited, and I was missing some features to optimize my workflow (see below). So after six months of suffering, I decided to switch to Zotero. The transition was really painful because EndNote's abilities to export your library in a format that Zotero can read are very limited. But it was totally worth it and I'm really happy with my current setup.
 
 ## Adding papers to your Zotero Library
 

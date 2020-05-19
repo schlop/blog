@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://schlop.github.io',
-  pathPrefix: '/blog/',
+  url: 'https://blog.paulschlosser.net',
+  pathPrefix: '/',
   title: 'Blog by Paul Schlosser',
   subtitle: '',
   copyright: '© All rights reserved.',
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Paul\'s Notebook',
     photo: '/bookmark.png',
-    bio: 'Hi. I am a PhD student at the University of Queensland. This is my private blog where I write about some of the software projects that I play arround with in my free time.',
+    bio: 'Hi. I am a PhD student at the University of Queensland. This is my private blog where I write about some of the software projects that I play around with in my free time.',
     contacts: {
       email: 'mail@paulschlosser.net',
       facebook: '',
