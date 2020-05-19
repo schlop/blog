@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blog.paulschlosser.net',
-  pathPrefix: '/',
+  url: 'https://schlop.github.io',
+  pathPrefix: '/blog/',
   title: 'Blog by Paul Schlosser',
   subtitle: '',
   copyright: '© All rights reserved.',
