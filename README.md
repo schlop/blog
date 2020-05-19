@@ -1,1 +1,1 @@
-Repository of my private Blog. Theme used: Lumen
+My private Blog. Theme used: Lumen
